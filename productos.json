@@ -1,0 +1,12 @@
+[
+    { "id": 1, "nombre": "NVIDIA RTX 4090", "precio": 1600, "imagen": "img/RTX4090.webp" },
+    { "id": 2, "nombre": "NVIDIA RTX 4080", "precio": 1200, "imagen": "img/rtx4080.jpeg" },
+    { "id": 3, "nombre": "NVIDIA RTX 3090", "precio": 1000, "imagen": "img/RTX3090.jpeg" },
+    { "id": 4, "nombre": "NVIDIA RTX 3080", "precio": 900, "imagen": "img/RTX3080.jpeg" },
+    { "id": 5, "nombre": "NVIDIA RTX 2080", "precio": 800, "imagen": "img/RTX2080.jpeg" },
+    { "id": 6, "nombre": "AMD Radeon RX 7900 XTX", "precio": 1000, "imagen": "img/RTX7900XTX.jpeg" },
+    { "id": 7, "nombre": "AMD Radeon RX 7900 XT", "precio": 900, "imagen": "img/RX7900.jpeg" },
+    { "id": 8, "nombre": "AMD Radeon RX 7800", "precio": 700, "imagen": "img/RX7800.jpeg" },
+    { "id": 9, "nombre": "AMD Radeon RX 6600", "precio": 350, "imagen": "img/RX6600.jpeg" },
+    { "id": 10, "nombre": "AMD Radeon RX 6400", "precio": 200, "imagen": "img/RX6400.jpeg" }
+]
